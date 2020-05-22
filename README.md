@@ -12,7 +12,7 @@ Alternative Hypothesis: Mean total on weekends <= Mean total on weekends.
 # Setup/Installation Requirements
 > Google colab/jupyter notebook
 > Python basics
-> Python libraries
+> Python libraries {Seaborn, Matplotlib, Numpy, Scipy, Pandas}
 > Github
 # Known Bugs.
 {There are no known bugs}
